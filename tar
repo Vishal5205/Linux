@@ -1,0 +1,4 @@
+#Compress
+root@ubuntu:~# tar -cvf <archive name> <files seperated by space>
+#Extract
+root@ubuntu:~# tar -xvf <archive name>
